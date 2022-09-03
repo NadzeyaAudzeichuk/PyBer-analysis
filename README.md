@@ -15,7 +15,12 @@ If we compare the average fare per ride between each city type, we'll notice tha
 From the average fare per driver and total drivers, we see that the more drivers in the city, the smaller the average fare.
 
  Using your Pandas and *pivot()* and *resample()* functions, we create a multiple-line graph showing each week's total fares by city type.
+ 
+
+
 ![PyBer_fare_summary.png](https://github.com/NadzeyaAudzeichuk/PyBer-analysis/blob/main/Analysis/PyBer_fare_summary.png)
+
+
 
 The total fare in urban cities is two and eight times greater than in suburban and rural towns. 
 
